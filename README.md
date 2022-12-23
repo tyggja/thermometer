@@ -1,6 +1,3 @@
-
-> Open this page at [https://tyggja.github.io/thermometer/](https://tyggja.github.io/thermometer/)
-
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
